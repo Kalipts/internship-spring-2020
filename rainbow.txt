@@ -2,4 +2,3 @@ red
 green
 yellow
 
-bad guy
